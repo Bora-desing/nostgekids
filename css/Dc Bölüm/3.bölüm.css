@@ -1,0 +1,40 @@
+.btn3{
+    width:180px;
+    height:50px;
+    position: relative;
+    top:150px;
+    left:250px;
+    font-size: 21px;
+    -moz-animation-name: 5px;
+    -moz-border-radius: 5px;
+     border-radius: 5px 5px 5px 5px;
+}
+
+.btn3{
+    position: relative;
+    background: #ffffff;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+    padding: 10px 30px;
+    transition: 0.5s;
+}
+.btn3:hover{
+    background: #00e1ff;
+    color: #ffffff;
+    letter-spacing: 0.25em;
+    box-shadow: 0 0 35px var(--clr);
+}
+.btn3::before{
+    content: '';
+    position: absolute;
+    inset: 2px;
+    background: #27282c;
+}
+.btn3 span{
+    position: relative;
+    z-index: 1;
+}
