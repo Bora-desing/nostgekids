@@ -1,0 +1,245 @@
+.bttyx{
+    width:180px;
+    height:50px;
+    position: relative;
+    top:280px;
+    left:200px;
+    font-size: 21px;
+    -moz-animation-name: 5px;
+    -moz-border-radius: 5px;
+     border-radius: 5px 5px 5px 5px;
+}
+
+.bttyx{
+    position: relative;
+    background: rgb(253, 253, 253);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+    padding: 10px 30px;
+    transition: 0.5s;
+}
+.bttyx:hover{
+    background: #00f178;
+    color: #FFFFFF;
+    letter-spacing: 0.25em;
+    box-shadow: 0 0 35px var(--clr);
+}
+.bttyx::before{
+    content: '';
+    position: absolute;
+    inset: 2px;
+    background: #27282c;
+}
+.bttyx span{
+    position: relative;
+    z-index: 1;
+}
+
+.bttxx{
+    width:180px;
+    height:50px;
+    position: relative;
+    top:280px;
+    left:470px;
+    font-size: 21px;
+    -moz-animation-name: 5px;
+    -moz-border-radius: 5px;
+     border-radius: 5px 5px 5px 5px;
+}
+
+.bttxx{
+    position: relative;
+    background: rgb(253, 253, 253);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+    padding: 10px 30px;
+    transition: 0.5s;
+}
+.bttxx:hover{
+    background: #00f178;
+    color: #FFFFFF;
+    letter-spacing: 0.25em;
+    box-shadow: 0 0 35px var(--clr);
+}
+.bttxx::before{
+    content: '';
+    position: absolute;
+    inset: 2px;
+    background: #27282c;
+}
+.bttxx span{
+    position: relative;
+    z-index: 1;
+}
+
+.bttxy{
+    width:180px;
+    height:50px;
+    position: relative;
+    top:280px;
+    left:750px;
+    font-size: 21px;
+    -moz-animation-name: 5px;
+    -moz-border-radius: 5px;
+     border-radius: 5px 5px 5px 5px;
+}
+
+.bttxy{
+    position: relative;
+    background: rgb(253, 253, 253);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+    padding: 10px 30px;
+    transition: 0.5s;
+}
+.bttxy:hover{
+    background: #00f178;
+    color: #FFFFFF;
+    letter-spacing: 0.25em;
+    box-shadow: 0 0 35px var(--clr);
+}
+.bttxy::before{
+    content: '';
+    position: absolute;
+    inset: 2px;
+    background: #27282c;
+}
+.bttxy span{
+    position: relative;
+    z-index: 1;
+}
+
+.btta{
+    width:180px;
+    height:50px;
+    position: relative;
+    top:450px;
+    left:200px;
+    font-size: 21px;
+    -moz-animation-name: 5px;
+    -moz-border-radius: 5px;
+     border-radius: 5px 5px 5px 5px;
+}
+
+.btta{
+    position: relative;
+    background: rgb(253, 253, 253);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+    padding: 10px 30px;
+    transition: 0.5s;
+}
+.btta:hover{
+    background: #00f178;
+    color: #FFFFFF;
+    letter-spacing: 0.25em;
+    box-shadow: 0 0 35px var(--clr);
+}
+.btta::before{
+    content: '';
+    position: absolute;
+    inset: 2px;
+    background: #27282c;
+}
+.btta span{
+    position: relative;
+    z-index: 1;
+}
+
+.btth{
+    width:180px;
+    height:50px;
+    position: relative;
+    top:450px;
+    left:470px;
+    font-size: 21px;
+    -moz-animation-name: 5px;
+    -moz-border-radius: 5px;
+     border-radius: 5px 5px 5px 5px;
+}
+
+.btth{
+    position: relative;
+    background: rgb(253, 253, 253);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+    padding: 10px 30px;
+    transition: 0.5s;
+}
+.btth:hover{
+    background: #00f178;
+    color: #FFFFFF;
+    letter-spacing: 0.25em;
+    box-shadow: 0 0 35px var(--clr);
+}
+.btth::before{
+    content: '';
+    position: absolute;
+    inset: 2px;
+    background: #27282c;
+}
+.btth span{
+    position: relative;
+    z-index: 1;
+}
+
+.bttb{
+    width:180px;
+    height:50px;
+    position: relative;
+    top:450px;
+    left:750px;
+    font-size: 21px;
+    -moz-animation-name: 5px;
+    -moz-border-radius: 5px;
+     border-radius: 5px 5px 5px 5px;
+}
+
+.bttb{
+    position: relative;
+    background: rgb(253, 253, 253);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+    padding: 10px 30px;
+    transition: 0.5s;
+}
+.bttb:hover{
+    background: #00f178;
+    color: #FFFFFF;
+    letter-spacing: 0.25em;
+    box-shadow: 0 0 35px var(--clr);
+}
+.bttb::before{
+    content: '';
+    position: absolute;
+    inset: 2px;
+    background: #27282c;
+}
+.bttb span{
+    position: relative;
+    z-index: 1;
+}
